@@ -22,6 +22,6 @@ else
     TIMESTAMP=$(date "+%Y-%m-%d %H:%M")
     git add data.js
     git commit -m "auto: update data @ $TIMESTAMP"
-    git push
+    git -c http.proxy="$HTTP_PROXY" -c https.proxy="$HTTPS_PROXY" push
     echo "✅ 已推送更新"
 fi
