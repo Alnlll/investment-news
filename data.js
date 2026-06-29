@@ -15,7 +15,8 @@ window.DATA = {
      "time": "06-29 23:48",
      "ts": 1782748137,
      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like Chat",
-     "source": "The Verge AI"
+     "source": "The Verge AI",
+     "zh": "美国国会拟禁止AI公司出售用户健康数据"
     },
     {
      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
@@ -23,7 +24,8 @@ window.DATA = {
      "time": "06-29 23:32",
      "ts": 1782747148,
      "summary": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto",
-     "source": "The Verge AI"
+     "source": "The Verge AI",
+     "zh": "玛格丽特·阿特伍德：AI的问题是「垃圾进垃圾出」"
     },
     {
      "title": "Agent confidence on the technical frontier",
@@ -31,7 +33,8 @@ window.DATA = {
      "time": "06-29 22:44",
      "ts": 1782744241,
      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business object",
-     "source": "MIT Tech Review AI"
+     "source": "MIT Tech Review AI",
+     "zh": "AI Agent在技术前沿的置信度探索"
     },
     {
      "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
@@ -39,7 +42,8 @@ window.DATA = {
      "time": "06-29 22:33",
      "ts": 1782743591,
      "summary": "刚融了2亿美元，冲到了具身榜单第一",
-     "source": "量子位"
+     "source": "量子位",
+     "zh": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！"
     },
     {
      "title": "Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative",
@@ -47,7 +51,8 @@ window.DATA = {
      "time": "06-29 22:00",
      "ts": 1782741650,
      "summary": "Learn what to reach for when retrieval-augmented generation fails in production.",
-     "source": "KDnuggets"
+     "source": "KDnuggets",
+     "zh": "你的RAG管线可能没用？这里有更好的替代方案"
     },
     {
      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
@@ -55,7 +60,8 @@ window.DATA = {
      "time": "06-29 22:00",
      "ts": 1782741608,
      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-     "source": "TechCrunch AI"
+     "source": "TechCrunch AI",
+     "zh": "机器人手公司和解特斯拉商业秘密诉讼，宣布融资1100万美元"
     },
     {
      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
@@ -63,7 +69,8 @@ window.DATA = {
      "time": "06-29 21:03",
      "ts": 1782738207,
      "summary": "What eras bookend our interregnum?",
-     "source": "Import AI"
+     "source": "Import AI",
+     "zh": "Import AI 463：自进化机器人、中国万卡GPU集群及人类时代挽歌"
     },
     {
      "title": "Omen AI’s plan to optimize data centers is all wet",
@@ -71,7 +78,8 @@ window.DATA = {
      "time": "06-29 21:00",
      "ts": 1782738000,
      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-     "source": "TechCrunch AI"
+     "source": "TechCrunch AI",
+     "zh": "Omen AI计划用液冷技术优化数据中心"
     },
     {
      "title": "5 AI Coding Subscription Plans That Give Developers the Best Value",
@@ -79,7 +87,8 @@ window.DATA = {
      "time": "06-29 20:00",
      "ts": 1782734438,
      "summary": "This is an opinion-based look at the AI coding subscription plans that I think give developers the best value for their money, from token and usage-based plans ",
-     "source": "KDnuggets"
+     "source": "KDnuggets",
+     "zh": "五款最具性价比的AI编程订阅方案"
     },
     {
      "title": "让AI自己修服务器？先过了这场“火线测试”再说",
@@ -87,7 +96,8 @@ window.DATA = {
      "time": "06-29 19:00",
      "ts": 1782730849,
      "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 随着大模型能力持续提升，智能体正从聊天、写作等辅助场景走向软件开发、网络管理和基础设施运维等生产环节。尤其在AI基础设施领域，面对庞大的GPU集群和复杂架构，越来越多企业开始尝试让智能体承担故障排查、告警分析和资源管理等工作，以提升运维效率并降低人力成本。 然而，运维场景对智能",
-     "source": "智东西"
+     "source": "智东西",
+     "zh": "让AI自己修服务器？先过了这场「火线测试」再说"
     },
     {
      "title": "AI算力抢电潮来袭？这家能源巨头订单排到2031年，微软、谷歌、OpenAI抢着定",
@@ -95,7 +105,8 @@ window.DATA = {
      "time": "06-29 18:50",
      "ts": 1782730235,
      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西6月29日消息，据CNBC报道，过去6个月，美国能源公司GE Vernova股价累计上涨近60%，截止目前，该公司的市值约为2809亿美元（约合人民币1.9万亿元）。 据CNBC报道，微软、谷歌等超大规模云计算厂商，以及OpenAI、xAI（现SpaceX的AI部门）等皆为",
-     "source": "智东西"
+     "source": "智东西",
+     "zh": "AI算力抢电潮来袭？这家能源巨头订单排到2031年，微软、谷歌、OpenAI抢着定"
     },
     {
      "title": "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
@@ -103,7 +114,8 @@ window.DATA = {
      "time": "06-29 18:42",
      "ts": 1782729767,
      "summary": "EverMind has open-sourced EverOS, a local-first memory runtime that stores AI agent memory as plain Markdown indexed by SQLite and LanceDB. It combines hybrid B",
-     "source": "MarkTechPost"
+     "source": "MarkTechPost",
+     "zh": "EverOS：开源Markdown优先Agent记忆运行时，支持混合检索与自进化技能"
     },
     {
      "title": "OceanBase发布AI数据库三件套，TOC最高降50%，蚂蚁阿福、灵光都在用",
@@ -111,7 +123,8 @@ window.DATA = {
      "time": "06-29 17:30",
      "ts": 1782725455,
      "summary": "智东西 作者 | 王涵 编辑 | 云鹏 智东西6月29日报道，今天，OceanBase发布湖库一体AI数据库产品OceanBase Lakebase，该产品面向Agent应用，原生支持多模态数据管理。 “数据湖”是一种集中式存储架构，可以存储结构化、半结构化、非结构化等不同类型的数据。Lakebase融合了“数据湖”架",
-     "source": "智东西"
+     "source": "智东西",
+     "zh": "OceanBase发布AI数据库三件套，TOC最高降50%，蚂蚁阿福、灵光都在用"
     },
     {
      "title": "Claude Mythos让梁文锋决定融资",
@@ -119,7 +132,8 @@ window.DATA = {
      "time": "06-29 16:54",
      "ts": 1782723297,
      "summary": "DeepSeek不储备弹药根本没法打下去了",
-     "source": "量子位"
+     "source": "量子位",
+     "zh": "Claude Mythos让梁文锋决定融资"
     },
     {
      "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
@@ -127,7 +141,8 @@ window.DATA = {
      "time": "06-29 16:49",
      "ts": 1782722978,
      "summary": "让AI真正“读懂”企业",
-     "source": "量子位"
+     "source": "量子位",
+     "zh": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据"
     },
     {
      "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
@@ -135,10 +150,32 @@ window.DATA = {
      "time": "06-29 16:29",
      "ts": 1782721748,
      "summary": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
-     "source": "量子位"
+     "source": "量子位",
+     "zh": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片"
     }
    ],
-   "points": []
+   "points": [
+    {
+     "t": "AI算力基建抢电潮：能源巨头订单排至2031，液冷散热成新焦点",
+     "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
+    },
+    {
+     "t": "数据基建升级：OceanBase推AI数据库三件套，RAG与Agent记忆方案涌现",
+     "url": "https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative"
+    },
+    {
+     "t": "具身智能赛道火热：智平方200亿估值，机器人手公司和解特斯拉",
+     "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
+    },
+    {
+     "t": "前沿技术：隐空间世界模型问世，Agent置信度与Claude神话引热议",
+     "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+    },
+    {
+     "t": "AI治理与反思：国会拟禁健康数据交易，Atwood批「垃圾进垃圾出」",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+    }
+   ]
   },
   {
    "key": "semi",
